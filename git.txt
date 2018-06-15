@@ -1,0 +1,18 @@
+step_1:open github in web-browser and sign in into github
+step_2:create repository
+step_3:install Git into your machine
+step_4:config into your git bash
+     4.1:git config --global user.name"Dharam"
+     4.2:git config --global user.name"email"
+step_6:cd desktop
+step_7:cd folder_name(repository)
+step_8:git clone url
+step_9:cd folder_name
+step_10:git status
+step_11:git add file_name.extension
+step_12:git status
+step_13:git commit -m"comment"
+step_14:git push -u origin master
+
+
+
